@@ -11,3 +11,32 @@ For file `139.sql` urls are:
 
 ## Interesting example:
 `errors/208.sql` -> `answers/208.sql`
+
+## TODO
+- https://sql-academy.org/ru/trainer/tasks/71
+- https://sql-academy.org/ru/trainer/tasks/44
+- https://sql-academy.org/ru/trainer/tasks/68
+- https://sql-academy.org/ru/trainer/tasks/60
+- https://sql-academy.org/ru/trainer/tasks/156
+- https://sql-academy.org/ru/trainer/tasks/73
+- https://sql-academy.org/ru/trainer/tasks/93
+- https://sql-academy.org/ru/trainer/tasks/49
+- https://sql-academy.org/ru/trainer/tasks/94
+- https://sql-academy.org/ru/trainer/tasks/37
+- https://sql-academy.org/ru/trainer/tasks/8
+- https://sql-academy.org/ru/trainer/tasks/161
+- https://sql-academy.org/ru/trainer/tasks/50
+- https://sql-academy.org/ru/trainer/tasks/10
+- https://sql-academy.org/ru/trainer/tasks/61
+- https://sql-academy.org/ru/trainer/tasks/64
+- https://sql-academy.org/ru/trainer/tasks/160
+- https://sql-academy.org/ru/trainer/tasks/167
+- https://sql-academy.org/ru/trainer/tasks/17
+- https://sql-academy.org/ru/trainer/tasks/24
+- https://sql-academy.org/ru/trainer/tasks/27
+- https://sql-academy.org/ru/trainer/tasks/32
+- https://sql-academy.org/ru/trainer/tasks/18
+- https://sql-academy.org/ru/trainer/tasks/25
+- https://sql-academy.org/ru/trainer/tasks/26
+- https://sql-academy.org/ru/trainer/tasks/204
+- https://sql-academy.org/ru/trainer/tasks/205
