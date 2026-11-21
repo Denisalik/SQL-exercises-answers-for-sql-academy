@@ -40,3 +40,5 @@ For file `139.sql` urls are:
 - https://sql-academy.org/ru/trainer/tasks/26
 - https://sql-academy.org/ru/trainer/tasks/204
 - https://sql-academy.org/ru/trainer/tasks/205
+
+Divide answers to easy, medium, hard folders
